@@ -1,0 +1,34 @@
+# Web Framework
+fastapi==0.115.6
+uvicorn==0.34.0
+python-multipart==0.0.19
+jinja2==3.1.4
+aiofiles==24.1.0
+
+# Database
+sqlalchemy==2.0.36
+psycopg2-binary==2.9.10
+
+# Validation
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# Environment
+python-dotenv==1.0.1
+
+# YouTube Download
+yt-dlp
+
+# Audio Processing
+demucs==4.0.1
+openai-whisper==20240930
+librosa==0.10.2
+soundfile==0.12.1
+numpy==1.26.4
+scipy==1.14.1
+
+# Cloud Storage (S3)
+boto3==1.35.81
+
+# Async/Background Tasks
+httpx==0.28.1
