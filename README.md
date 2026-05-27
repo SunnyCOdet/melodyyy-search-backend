@@ -1,6 +1,6 @@
 # 🎵 Melodyyy - Music Learning Platform
 
-A Duolingo-like platform for learning to sing. Search for any song, and the system will:
+It is a Duolingo-like platform for learning to sing. Search for any song, and the system will:
 1. Download the most viewed video from YouTube
 2. Separate vocals and instrumentals using Demucs
 3. Transcribe lyrics with timing using Whisper
